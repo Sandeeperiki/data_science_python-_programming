@@ -1,5 +1,4 @@
-# Student Academic Risk Analysis and Data Cleansing
-
+# Analyzing Student Performance Risk Through Academic and Lifestyle Factors
 ## Project Overview
 
 This project focuses on data cleansing, preprocessing, exploratory data analysis (EDA), and insight generation using Python on a comprehensive student academic risk dataset. The dataset provides a holistic view of student performance by combining academic, behavioral, psychological, wellness, career development, and environmental factors.
